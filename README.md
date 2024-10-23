@@ -1,4 +1,4 @@
-This outputs for the meshes are also present in the folder. I learnt from the gmsh tutorial to make these meshes. The link to the tutotial is available here. 
+ This repo consists of gmsh (python api) codes for simple figures like square,circle, ellipse etc,. It also contains the function to collect the nodal and element information (Nodes, coordinates, elements, boundary nodes). The outputs for the meshes are also present in the folder. I learnt from the gmsh tutorial to make these meshes. The link to the tutotial is available here. 
 https://gitlab.onelab.info/gmsh/gmsh/-/tree/master/tutorials
 
 Examples:-
