@@ -10,3 +10,4 @@ Ellipse with a Elliptic hole
 
 Circle with two holes.
 
+In the code, the order and mesh size can be modified to generate diffferent meshes. Also the mesh size can be modified at specific points to created unstructured meshes.
